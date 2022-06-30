@@ -1,0 +1,2 @@
+###This command will run 100 games with q learning AI players on both sides
+python sequence_runner.py -r group16.appr_q_learning_3 -b group16.appr_q_learning_3 -q -m 100
